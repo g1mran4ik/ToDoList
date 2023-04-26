@@ -1,0 +1,27 @@
+.app {
+    background-image: url(../../images/background.jpg);
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-size: cover;
+}
+
+.navigation-panel {
+    padding: 25px;
+    background-color: #3d5a80;
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+    color: #fff;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+
+
+

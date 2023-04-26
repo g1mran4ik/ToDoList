@@ -1,0 +1,38 @@
+.list-group-item {
+    padding: 10px;
+    border: 3mm ridge #020a14;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.list-group-item-label {
+    font-family: 'Roboto-slab';
+    line-height: 35px;
+    font-size: 20px;
+    cursor: pointer;
+    min-width: 550px;
+}
+
+.list-item-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-group-item-label-line-through {
+    font-family: 'Roboto-slab';
+    line-height: 35px;
+    font-size: 20px;
+    cursor: pointer;
+    min-width: 550px;
+    text-decoration: line-through;
+}
+
+.list-group-item:hover .list-group-item-label { 
+    font-size: 30px;
+}
+
+.list-group-item:hover .list-group-item-label-line-through { 
+    font-size: 30px;
+}

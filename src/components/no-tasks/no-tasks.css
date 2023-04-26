@@ -1,0 +1,21 @@
+.no-tasks {
+    padding: 25px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+    color: #fff;
+    align-items: center;
+}
+
+h1, img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: 'Comfortaa';
+    width: 13em;
+    color: black;
+    padding-left: 30px;
+}

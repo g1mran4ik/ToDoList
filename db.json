@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "text": "Добавить шрифты",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "text": "Сделать поиск",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "text": "Добавить анимацию загрузки",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "text": "Сделать 2 домашки по хабру",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "text": "Посмотреть 2 видоса по хабру",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "text": "Прорешать задачки на 7 kyu на Codewars",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "text": "Отредактировать резюме на хабре",
+      "completed": false,
+      "id": 9
+    }
+  ]
+}
