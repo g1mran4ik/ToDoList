@@ -26,7 +26,7 @@ export default function TodosListItem() {
       {filteredTasks.map(({ id, text, completed }) => (
         <li key={id} className="list-group-item">
           {completed ? (
-            <span className="list-group-item-label-line-through">{text}</span>
+            <span className="list-group-item-label list-group-item-label-line-through">{text}</span>
           ) : (
             <span className="list-group-item-label">{text}</span>
           )}
